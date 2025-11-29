@@ -1,0 +1,19 @@
+# Python (Django)
+backend/env/
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+*.sqlite3
+
+# Node (React)
+frontend/node_modules/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# Environment variables
+.env
